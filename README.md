@@ -32,27 +32,27 @@ The app uses a cleaned and merged dataset:
    ```bash
    git clone https://github.com/your-username/olympics-analysis-app.git
    cd olympics-analysis-app
-2. **Install dependencies**:
 
-```bash
-Copy
-Edit
-pip install -r requirements.txt
 
-3. **Run the Streamlit app**:
 
-```bash
-Copy
-Edit
-streamlit run app.py
 
-## 🛠️ File Structure
-graphql
-Copy
-Edit
--├── app.py                # Main Streamlit app
--├── helper.py             # Helper functions for data processing
--├── preprocessor.py       # Data cleaning and merging
--├── athlete_events.csv    # Olympic athlete data
--├── noc_regions.csv       # NOC to region mapping
--└── README.md             # Project documentation
+
+## 📌 To-Do
+
+- Add interactive country-wise analysis  
+- Add athlete-wise comparison and filtering  
+- Improve UI/UX with custom components  
+
+---
+
+## 🙌 Credits
+
+- **Dataset**: [Kaggle – 120 years of Olympic history](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)  
+- **Built with**: Python, Pandas, Plotly, Streamlit
+
+---
+
+## 📬 Contact
+
+**Ali Ahmad**  
+*Data Scientist & AI/ML Engineer*
