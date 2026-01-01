@@ -32,10 +32,7 @@ The app uses a cleaned and merged dataset:
    ```bash
    git clone https://github.com/your-username/olympics-analysis-app.git
    cd olympics-analysis-app
-
-
-
-
+```
 
 ## 📌 To-Do
 
