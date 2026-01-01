@@ -1,1 +1,5 @@
 .venv
+myenv
+.ipynb_checkpoints
+.idea
+__pycache__
