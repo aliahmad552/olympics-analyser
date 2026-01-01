@@ -29,7 +29,7 @@ The app uses a cleaned and merged dataset:
 
 1. **Clone the repository**:
 
-   ```bash
+```bash
    git clone https://github.com/your-username/olympics-analysis-app.git
    cd olympics-analysis-app
 ```
