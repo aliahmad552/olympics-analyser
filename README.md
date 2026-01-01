@@ -55,4 +55,6 @@ The app uses a cleaned and merged dataset:
 ## 📬 Contact
 
 **Ali Ahmad**  
+Email: aliahmaddawana@gmail.com
+linkedIn: https://www.linkedin.com/in/ali-ahmad-dawana
 *Data Scientist & AI/ML Engineer*
